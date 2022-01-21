@@ -16,6 +16,12 @@
 //4 - Criar uma condição que exiba uma mensagem no console se seu nome começar com a letra R  
 //5 - Criar uma condição que exiba uma mensagem no console se seu sobrenome tenha mais de 6 letras OU seu nome começar com a letra E  
 
+## 03 - for/while - file lacos.js  
+//1 - Criar um loop que conte de 1 até 10 usando FOR  
+//2 - Criar um loop que conte de 10 até 1 usando WHILE  
+//3 - Criar um loop que conte todos os números ímpares de 1 até 100  
+//4- Criar um loop que conte todos os números pares de 0 a 100  
+
 ## 04 - Funtion - file function.js  
 //1 - crie uma função que exiba uma mensagem no console  
 //2 - crie uma função que receba o seu nome como (parâmetro) e exiba no console  
