@@ -31,7 +31,7 @@
 //5 - crie uma função que retorne o triplo do número recebido no parâmetro da função  
 
 
-## 05 - Estrutura de dados simples
+## 05 - Estrutura de dados simples - array.js
  // Crie um array que receba 5 itens e exiba no console. 
 // Utilize um método para adicionar um nome ao inicio do array.  
 // Utilize um método para remover o último nome do array.  
@@ -39,3 +39,12 @@
 // Utilize um método para remover o primeiro nome do array.  
 // Utilize um método para organizar em ordem crescente o seguinte array:  const numbers = [7,5,6,3,8,9,2,1,4]  
 
+## 06 - Estrutura de dados complexos (Array e Objeto) - objeto.js
+// Crie um objeto que receba ao menos três propriedades sobre você.  
+// Adicione uma nova propriedade sem alterar seu objeto inicial.   
+// Remova uma propriedade desse objeto.  
+//Mostre no console todas as propriedades desse objeto.  
+// Crie um array  chamado "cadastro" contendo ao menos 5 objetos.   
+//Cada objeto deve receber as seguintes propriedades: nome,  idade,  telefone, amigos.   
+//Na propriedade amigos, adicione ao menos 4 itens.  
+// Mostre no console o nome de um amigo de cada lista.  
